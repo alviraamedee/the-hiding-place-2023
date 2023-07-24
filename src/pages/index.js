@@ -79,7 +79,7 @@ const IndexPage = () => (
         style={{ marginBottom: `var(--space-3)` }}
       />
       <h1>
-        Watch Full <b>TThe Hiding Place (2023) Movie</b> - At Home Online Streaming Here's How
+        Watch Full <b>The Hiding Place (2023) Movie</b> - At Home Online Streaming Here's How
       </h1>
        <p className={styles.intro}>
         <b>Visit Link To Watch Full Movie: 👉</b> {" "}
